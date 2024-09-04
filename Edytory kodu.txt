@@ -1,0 +1,61 @@
+#Wstęp
+
+W tym tekście spróbuje opisać edytoryz których korzystałem i co o nich myślę.
+
+
+Visual Studio Code 
+==================
+Jest to jeden z bardziej popularnych edytorów. Stowrzony przez Microsoft utrzymywany przez społeczność.
+
++ łatwy w konfiguracji
++ nie wymaga nauki samego programu, górny pasek narzędzi jest standardowy; Można bez znajomości programu zacząć z niego korzystać
++ dużo wtyczek/pluginów
++ pozwala na dużą konfigurację
++ ma bardzo aktywną społeczność
+
+- nie wprowadza w coraz bardziej zaawansowane funkcje i skruty
+- nie uruchamia się szybko
+
+Visual Studio 
+=============
+Oddzielam go od Visual Studio Code, ponieważ to całe środowisko programistyczne, a nie tylko edytor, jak Visual Studio Code.
+
++ pozwala na tworzenie pełnych aplikacji w bardziej zintegorwanym środowisku niż pozwala na to edytor
++ jako edytora tekstu używa Visual Studio Code
+
+- uruchamia się dużo wolniej, ale oferóje więcej funkcji
+
+NetBeans
+========
+Jest to edytor Javay od Oracle i nadaje się głównie do tego.
+
+- uruchamia się wolno
+- bardzo trudno zainstalować do neigo dodatki/wtyczki
+
+Zed editor
+==========
+
+Nowy Visual Studio Code, nie tworzony przez Microsoft. Ale zobaczymy co z tego wyjdzie.
+
++ ma już wiele z możliwośći Visual Studio Code
+- jest to nowy pordukt, nie jest jeszcze tak rozwinięty jak Visual Studio Code
+- jest trochę produktem korporacyjmym, więc może go spotkać przygoda np. discorda (darmowy, potem płatny) 
+
+
+Notatnik
+========
++ szybko się uruchamia
++ nie wymaga instalacji
++ jest dostępny na kazdej platformie
++ pozwala na odczyt zapis i edycje plików 
++ wspiera prawie wszytkie języki programowania
+
+Vim/Neovim
+==========
+Korzyałem z niego spontanicznie, jest to jeseden z edytorów które pozwalają na najwięcej ale i wymagają najwięcej nauki. Nie rozróżniam tych odytorów od siebie ze wzeględu na słabą znajomość.
+
++ szybkio się uruchamia
++ skruty vima są obecne w wielu innych edytorach
++ mimo wielu lat pozwala na bardzo dużo
+
+- wymaga nauki i nawet wyjście z neigo nie jest tak łątwe jak z innych edytorów
