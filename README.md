@@ -1,3 +1,3 @@
 # Blog
  
-W tym repozytorium będę publikował.
+ W tym repozytorium będę publikował.
